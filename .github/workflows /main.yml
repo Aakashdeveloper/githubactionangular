@@ -31,6 +31,6 @@ jobs:
       - name: Install Angular CLI
         run: npm install -g @angular/cli@18.2.0
 
-      # Step 5: Build the Angular App
+   
       - name: Build Angular App
         run: ng build  
